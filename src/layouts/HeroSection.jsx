@@ -1,5 +1,4 @@
 import moment from "moment-timezone";
-
 import rings from "../assets/images/rings.svg";
 import link from "../assets/images/resume-link.svg";
 import bannerImage from "../assets/images/banner-img.svg";

@@ -97,21 +97,8 @@ const ImagesSection = () => {
             className="h-full w-full grayscale hover:scale-110 hover:grayscale-0 transition duration-300"
           />
         </a>
-        
-        {/* <a
-          className="overflow-hidden rounded-xl"
-          href="https://www.awwwards.com/"
-          target="_blank"
-          rel="noreferrer"
-        >
-          <img
-            src={g8}
-            alt=""
-            className="h-full w-full grayscale hover:scale-110 hover:grayscale-0 transition duration-300"
-          />
-        </a> */}
 
-        {/* <a
+        <a
           className="overflow-hidden rounded-xl"
           href="https://www.awwwards.com/"
           target="_blank"
@@ -122,11 +109,11 @@ const ImagesSection = () => {
             alt=""
             className="h-full w-full grayscale hover:scale-110 hover:grayscale-0 transition duration-300"
           />
-        </a> */}
+        </a>
       </div>
 
       <div className="grid gap-4">
-        {/* <a
+        <a
           className="overflow-hidden rounded-xl"
           href="https://www.awwwards.com/"
           target="_blank"
@@ -137,7 +124,7 @@ const ImagesSection = () => {
             alt=""
             className="h-full w-full grayscale hover:scale-110 hover:grayscale-0 transition duration-300"
           />
-        </a> */}
+        </a>
         <a
           className="overflow-hidden rounded-xl"
           href="https://www.awwwards.com/"

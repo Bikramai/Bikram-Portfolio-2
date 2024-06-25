@@ -31,8 +31,8 @@ const AboutMe = () => {
               <br /> deliver <label className="text-light-color">high-quality</label> web design.
             </span>
             <span className="text-base font-secondary font-normal text-gray-color leading-5">
-            Currently driving technological
-              <br /> advancement at <label className="text-light-color">Basic Theory</label>
+            Currently Seeking a position 
+              <br /> in <label className="text-light-color">Software Development.</label>
             </span>
           </div>
           <div className="mt-14 relative ">

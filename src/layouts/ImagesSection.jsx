@@ -10,8 +10,8 @@ import g8 from "@/assets/images/g8.svg";
 const ImagesSection = () => {
   return (
     <div className="grid grid-cols-2 gap-5">
-      <div className="grid gap-4">
-        <div className="flex gap-2 ">
+      <div className="grid gap-7">
+        <div className="flex gap-4">
           <a
             className="overflow-hidden rounded-xl h-full"
             href="https://github.com/bikramai"
@@ -85,7 +85,7 @@ const ImagesSection = () => {
             className="h-full w-full grayscale hover:scale-110 hover:grayscale-0 transition duration-300"
           />
         </a>
-        <a
+        {/* <a
           className="overflow-hidden rounded-xl"
           href="https://www.awwwards.com/"
           target="_blank"
@@ -96,9 +96,9 @@ const ImagesSection = () => {
             alt=""
             className="h-full w-full grayscale hover:scale-110 hover:grayscale-0 transition duration-300"
           />
-        </a>
+        </a> */}
 
-        <a
+        {/* <a
           className="overflow-hidden rounded-xl"
           href="https://www.awwwards.com/"
           target="_blank"
@@ -109,7 +109,7 @@ const ImagesSection = () => {
             alt=""
             className="h-full w-full grayscale hover:scale-110 hover:grayscale-0 transition duration-300"
           />
-        </a>
+        </a> */}
       </div>
 
       <div className="grid gap-4">
@@ -125,7 +125,7 @@ const ImagesSection = () => {
             className="h-full w-full grayscale hover:scale-110 hover:grayscale-0 transition duration-300"
           />
         </a>
-        <a
+        {/* <a
           className="overflow-hidden rounded-xl"
           href="https://www.awwwards.com/"
           target="_blank"
@@ -136,7 +136,7 @@ const ImagesSection = () => {
             alt=""
             className="h-full w-full grayscale hover:scale-110 hover:grayscale-0 transition duration-300"
           />
-        </a>
+        </a> */}
         <a
           className="overflow-hidden rounded-xl"
           href="https://www.awwwards.com/"
@@ -161,7 +161,7 @@ const ImagesSection = () => {
             className="w-full h-full grayscale hover:scale-110 hover:grayscale-0 transition duration-300"
           />
         </a>
-        <a
+        {/* <a
           className="overflow-hidden rounded-xl"
           href="https://www.awwwards.com/"
           target="_blank"
@@ -172,7 +172,7 @@ const ImagesSection = () => {
             alt=""
             className="h-full w-full grayscale hover:scale-110 hover:grayscale-0 transition duration-300"
           />
-        </a>  
+        </a>   */}
         <div className="flex gap-2 ">
           <a
             className="overflow-hidden rounded-xl h-full"

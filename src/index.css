@@ -11,7 +11,7 @@
 /* !  2xl	1536px	@media (min-width: 1536px) */
 
 :root {
-  font-family: "Figtree", sans-serif;
+  font-family: "Figtree", sans-serif;  
 
   --primary-font: "Figtree", sans-serif;
   --secondary-font: "Syne", sans-serif;
@@ -127,7 +127,7 @@ a {
 .second-text {
   position: absolute;
   transition: transform 1s ease;
-  left: 21.5%;
+  left: 21%;
   top: 45%;
 }
 .third-text {

@@ -11,7 +11,7 @@
 /* !  2xl	1536px	@media (min-width: 1536px) */
 
 :root {
-  font-family: "Figtree", sans-serif;  
+  font-family: "Figtree", sans-serif;
 
   --primary-font: "Figtree", sans-serif;
   --secondary-font: "Syne", sans-serif;
@@ -145,7 +145,7 @@ a {
 }
 
 .container:hover .first-text {
-  transform: translateY(-50%, -300%);
+  transform: translate(-50%, -300%);
 }
 
 .container:hover .second-text {
@@ -157,10 +157,7 @@ a {
 }
 
 .container:hover .forth-text {
-  transform: translateY(-50%, 350%);
-}
-
-@media only screen and (max-width: 768px) {
+  transform: translate(-50%, 350%);
 }
 
 .flex-animation {
@@ -187,10 +184,10 @@ a {
   .third-text {
     right: 0%;
   }
+
   .flex-animation:hover .first-div {
     transform: translateX(70px);
   }
-
   .flex-animation:hover .second-div {
     transform: translateX(-20px);
   }
@@ -209,7 +206,7 @@ a {
   .third-text {
     right: 0%;
   }
-  
+
   .flex-animation:hover .first-div {
     transform: translateX(50px);
   }

@@ -42,7 +42,7 @@ const HeroSection = () => {
           <h1 className="text-[70px] sm:text-[105px] md:text-[135px] lg:text-[170px] xl:text-[220px] leading-[75px] md:leading-[105px] lg:leading-[135px] xl:leading-[185px] font-medium font-primary text-light-color inline-block static first-text">
             HITHERE
           </h1>
-          <div className="flex justify-between text-xs sm:text-base leading-none font-secondary font-normal text-pink-color">
+          <div className="flex justify-between text-[10px] sm:text-base leading-none font-secondary font-normal text-pink-color">
             <span className="second-text">Transitioning From Business Towards</span>
             <span className="third-text">Software Engineering Path</span>
           </div>

@@ -127,7 +127,7 @@ a {
 .second-text {
   position: absolute;
   transition: transform 1s ease;
-  left: 21%;
+  left: 20%;
   top: 45%;
 }
 .third-text {
@@ -145,7 +145,7 @@ a {
 }
 
 .container:hover .first-text {
-  transform: translateY(-300%);
+  transform: translateY(-50%, -300%);
 }
 
 .container:hover .second-text {
@@ -157,18 +157,10 @@ a {
 }
 
 .container:hover .forth-text {
-  transform: translateY(350%);
+  transform: translateY(-50%, 350%);
 }
 
 @media only screen and (max-width: 768px) {
-  .first-text {
-    top: 15%;
-    left: 10%;
-  }
-  .forth-text {
-    bottom: 30%;
-    left: 0%;
-  }
 }
 
 .flex-animation {
@@ -189,15 +181,35 @@ a {
 }
 
 @media only screen and (max-width: 1030px) {
+  .second-text {
+    left: 0%;
+  }
+  .third-text {
+    right: 0%;
+  }
   .flex-animation:hover .first-div {
     transform: translateX(70px);
   }
+
   .flex-animation:hover .second-div {
     transform: translateX(-20px);
   }
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 640px) {
+  .first-text {
+    top: 15%;
+  }
+  .forth-text {
+    bottom: 30%;
+  }
+  .second-text {
+    left: 0%;
+  }
+  .third-text {
+    right: 0%;
+  }
+  
   .flex-animation:hover .first-div {
     transform: translateX(50px);
   }

@@ -16,20 +16,20 @@ const SelectWork = () => {
         subHeadTwo="product STRATEGY"
         subHeadThree="design process"
       />
-      <div className="flex flex-wrap md:flex-wrap lg:flex-nowrap gap-6 justify-center lg:justify-between mt-16 ">
+      <div className="flex flex-wrap md:flex-wrap lg:flex-nowrap gap-3 justify-center lg:justify-between mt-16 ">
         <a
           className="grid gap-y-2 bg-dark-black  rounded-xl px-2 py-3 group cursor-pointer"
-          href="https://digitalservice-ten.vercel.app"
+          href="https://github.com/Bikramai/Book-land-Ecomerce-Store"
           target="_blank"
           rel="noreferrer"
         >
           <div className="bg-[#232323] group-hover:bg-[#0F7122] rounded-xl py-3 lg:py-7 px-3 lg:px-8 transition ease-out duration-300">
             <div className="flex justify-between">
               <h5 className="text-sm md:text-base leading-7 font-semibold font-primary text-white">
-                Project 1
+                BookieMart app
               </h5>
-              <p className="text-sm md:text-xl leading-6 font-secondary font-semibold text-gray-color">
-                15 Jan
+              <p className="text-sm md:text-base leading-7 font-secondary font-semibold text-gray-color">
+                Full Stack Development
               </p>
             </div>
           </div>
@@ -40,6 +40,13 @@ const SelectWork = () => {
               className="grayscale group-hover:grayscale-0 group-hover:scale-110 transition ease-out duration-300"
             />
           </div>
+          <h5 className="text-sm md:text-base leading-7 font-semibold font-primary text-white">
+            This web application is designed to combine the best aspects of social media and e-commerce for book lovers. 
+            Users can browse products, make purchases, and share their favorite items with friends and followers.
+          </h5>
+            <p className="text-sm md:text-base leading-7 font-secondary font-semibold text-gray-color">
+              Full Stack Development
+            </p>
         </a>
 
         <a
@@ -51,10 +58,10 @@ const SelectWork = () => {
           <div className="bg-[#232323]  group-hover:bg-[#5D23D9] rounded-xl py-7 px-8 transition ease-out duration-300">
             <div className="flex justify-between">
               <h5 className="text-base leading-7 font-semibold font-primary text-white">
-                Project 2
+                E-Commerce Store
               </h5>
-              <p className="text-xl leading-6 font-secondary font-semibold text-gray-color">
-                31 Jan
+              <p className="text-base leading-6 font-secondary font-semibold text-gray-color">
+                Full Stack Development
               </p>
             </div>
           </div>
@@ -65,21 +72,30 @@ const SelectWork = () => {
               className="grayscale group-hover:grayscale-0 group-hover:scale-110 transition ease-out duration-300"
             />
           </div>
+          <h5 className="text-sm md:text-base leading-7 font-semibold font-primary text-white">
+            Website demonstrates an ability to construct a Full-Stack application with the following
+            features: User Authentication Front End (with react material-ui) Full CRUD Operations: 
+            Create, post, Read, Update, Delete, Add Cart, with API calls via routes and requests 
+            we will make with React.
+          </h5>
+          <p className="text-sm md:text-base leading-7 font-secondary font-semibold text-gray-color">
+            Full Stack Development
+          </p>
         </a>
 
         <a
           className="grid gap-y-2 bg-dark-black rounded-xl px-2 py-3 group cursor-pointer"
-          href="https://game-app-orcin.vercel.app"
+          href="https://github.com/Bikramai/Weather-App"
           target="_blank"
           rel="noreferrer"
         >
           <div className="bg-[#232323] group-hover:bg-[#0291DE]  rounded-xl py-7 px-8 transition ease-out duration-300">
             <div className="flex justify-between">
-              <h5 className="text-base leading-7 font-semibold font-primary text-white">
-                Project 3
-              </h5>
+              <h1 className="text-base leading-7 font-semibold font-primary text-white">
+              Weather App
+              </h1>
               <p className="text-xl leading-6 font-secondary font-semibold text-gray-color">
-                15 Feb
+                Full Stack Development
               </p>
             </div>
           </div>
@@ -90,22 +106,30 @@ const SelectWork = () => {
               className="grayscale group-hover:grayscale-0 group-hover:scale-110 w-full h-full object-cover transition ease-out duration-300"
             />
           </div>
+            <h5 className="text-sm md:text-base leading-7 font-semibold font-primary text-white">
+              A Flutter application that provides current weather information and a 5-day forecast using the 
+              OpenWeather API. Features Display current weather conditions Show 5-day weather forecast Search 
+              for weather by city name Responsive UI for different screen sizes
+            </h5>
+            <p className="text-sm md:text-base leading-7 font-secondary font-semibold text-gray-color">
+              Full Stack Development
+            </p>
         </a>
       </div>
       <div className="flex flex-wrap md:flex-wrap lg:flex-nowrap gap-6 justify-center lg:justify-between mt-16 ">
       <a
           className="grid gap-y-2 bg-dark-black  rounded-xl px-2 py-3 group cursor-pointer"
-          href="https://digitalservice-ten.vercel.app"
+          href="https://github.com/Bikramai/Pokemon-Game-App"
           target="_blank"
           rel="noreferrer"
         >
           <div className="bg-[#232323] group-hover:bg-[#0F7122] rounded-xl py-3 lg:py-7 px-3 lg:px-8 transition ease-out duration-300">
             <div className="flex justify-between">
               <h5 className="text-sm md:text-base leading-7 font-semibold font-primary text-white">
-                Project 4
+                Pokemon Game
               </h5>
-              <p className="text-sm md:text-xl leading-6 font-secondary font-semibold text-gray-color">
-                28 Feb
+              <p className="text-sm md:text-base leading-6 font-secondary font-semibold text-gray-color">
+                Full Stack Development
               </p>
             </div>
           </div>
@@ -116,21 +140,28 @@ const SelectWork = () => {
               className="grayscale group-hover:grayscale-0 group-hover:scale-110 transition ease-out duration-300"
             />
           </div>
+          <h5 className="text-sm md:text-base leading-7 font-semibold font-primary text-white">
+            Pokémon Battle web application that allows users to fetch Battle Data - Users can input 
+            an opponent's name to fetch their Pokémon data and prepare for a battle.
+          </h5>
+          <p className="text-sm md:text-base leading-7 font-secondary font-semibold text-gray-color">
+            Full Stack Development
+          </p>
         </a>
 
         <a
           className="grid gap-y-2 bg-dark-black  rounded-xl px-2 py-3 group cursor-pointer"
-          href="https://ranger134-wk10-proj.vercel.app"
+          href="https://github.com/Bikramai/Parkinsonai-app"
           target="_blank"
           rel="noreferrer"
         >
           <div className="bg-[#232323]  group-hover:bg-[#5D23D9] rounded-xl py-7 px-8 transition ease-out duration-300">
             <div className="flex justify-between">
               <h5 className="text-base leading-7 font-semibold font-primary text-white">
-                Project 5
+                Parkinson Ai
               </h5>
-              <p className="text-xl leading-6 font-secondary font-semibold text-gray-color">
-                15 March
+              <p className="text-sm md:text-base leading-6 font-secondary font-semibold text-gray-color">
+                Full Stack Development
               </p>
             </div>
           </div>
@@ -141,21 +172,28 @@ const SelectWork = () => {
               className="grayscale group-hover:grayscale-0 group-hover:scale-110 transition ease-out duration-300"
             />
           </div>
+          <h5 className="text-sm md:text-base leading-7 font-semibold font-primary text-white">
+            PARKINSON is an innovative web application designed Detect the neurological diseases 
+            symtoms by sending voice through the restfull api so it detact the diseases against your voice.
+          </h5>
+          <p className="text-sm md:text-base leading-7 font-secondary font-semibold text-gray-color">
+            Full Stack Development
+          </p>
         </a>
 
         <a
           className="grid gap-y-2 bg-dark-black rounded-xl px-2 py-3 group cursor-pointer"
-          href="https://game-app-orcin.vercel.app"
+          href="https://github.com/Bikramai/Cleaning-Service-Site"
           target="_blank"
           rel="noreferrer"
         >
           <div className="bg-[#232323] group-hover:bg-[#0291DE]  rounded-xl py-7 px-8 transition ease-out duration-300">
             <div className="flex justify-between">
               <h5 className="text-base leading-7 font-semibold font-primary text-white">
-                Project 6
+                Cleaning Service
               </h5>
-              <p className="text-xl leading-6 font-secondary font-semibold text-gray-color">
-                30 March
+              <p className="text-sm md:text-base leading-6 font-secondary font-semibold text-gray-color">
+                Full Stack Development
               </p>
             </div>
           </div>
@@ -166,6 +204,13 @@ const SelectWork = () => {
               className="grayscale group-hover:grayscale-0 group-hover:scale-110 w-full h-full object-cover transition ease-out duration-300"
             />
           </div>
+          <h5 className="text-sm md:text-base leading-7 font-semibold font-primary text-white">
+            Omni Serve is an innovative web application designed For providing Cleaning Service Online , 
+            User can Order their Service Using Form Submission or Directly call to company.
+          </h5>
+          <p className="text-sm md:text-base leading-7 font-secondary font-semibold text-gray-color">
+            Full Stack Development
+          </p>
         </a>
       </div>
     </div>

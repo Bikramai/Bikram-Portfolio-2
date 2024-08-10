@@ -31,7 +31,7 @@ const Header = () => {
           onClick={() => scrollToSection("hero-section")}
         >
           <h1 className="text-3xl md:text-4xl leading-6 md:leading-7 font-semibold font-primary text-light-color">
-            Bikram
+            Dev
           </h1>
           <div className="pink-dot bg-pink-color w-3 h-3 rounded-2xl"></div>
         </div>

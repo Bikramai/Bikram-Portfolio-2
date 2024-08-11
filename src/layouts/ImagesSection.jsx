@@ -6,12 +6,13 @@ import g5 from "@/assets/images/g5.png";
 import g6 from "@/assets/images/g6.png";
 import g7 from "@/assets/images/g7.png";
 import g8 from "@/assets/images/g8.png";
+import g9 from "@/assets/images/g9.png";
 
 const ImagesSection = () => {
   return (
-    <div className="grid grid-cols-2 gap-5">
-      <div className="grid gap-7">
-        <div className="flex gap-4">
+    <div className="grid grid-cols-2 gap-3">
+      <div className="grid gap-3">
+        <div className="flex gap-3">
           <a
             className="overflow-hidden rounded-xl h-full"
             href="https://github.com/bikramai"
@@ -132,7 +133,7 @@ const ImagesSection = () => {
           rel="noreferrer"
         >
           <img
-            src={g4}
+            src={g7}
             alt=""
             className="h-full w-full grayscale hover:scale-110 hover:grayscale-0 transition duration-300"
           />

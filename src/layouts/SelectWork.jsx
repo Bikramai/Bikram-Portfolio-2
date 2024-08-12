@@ -28,7 +28,7 @@ const SelectWork = () => {
               <h5 className="text-sm md:text-base leading-7 font-semibold font-primary text-white">
                 BookieMart app
               </h5>
-              <p className="text-sm md:text-base leading-7 font-secondary font-semibold text-gray-color">
+              <p className="text-sm md:text-base leading-7 font-secondary font-semibold text-white">
                 Full Stack Development
               </p>
             </div>
@@ -41,12 +41,18 @@ const SelectWork = () => {
             />
           </div>
           <h5 className="text-sm md:text-base leading-7 font-semibold font-primary text-white">
-            This web application is designed to combine the best aspects of social media and e-commerce for book lovers. 
-            Users can browse products, make purchases, and share their favorite items with friends and followers.
+            This web application is designed to combine the best aspects of
+            social media and e-commerce for book lovers. Users can browse
+            products, make purchases, and share their favorite items with
+            friends and followers.
           </h5>
-            <p className="text-sm md:text-base leading-7 font-secondary font-semibold text-gray-color">
-              Full Stack Development
-            </p>
+          <div>
+            <h1 className="text-sm md:text-xl leading-7 font-secondary font-semibold">Technologies:</h1>
+          <p>
+            Frontend: JavaScript, HTML, CSS, Bootstrap.
+            Backend: Python, Django Database: PostgreSQL
+          </p>
+          </div>
         </a>
 
         <a
@@ -60,7 +66,7 @@ const SelectWork = () => {
               <h5 className="text-base leading-7 font-semibold font-primary text-white">
                 E-Commerce Store
               </h5>
-              <p className="text-base leading-6 font-secondary font-semibold text-gray-color">
+              <p className="text-base leading-6 font-secondary font-semibold text-white">
                 Full Stack Development
               </p>
             </div>
@@ -73,14 +79,19 @@ const SelectWork = () => {
             />
           </div>
           <h5 className="text-sm md:text-base leading-7 font-semibold font-primary text-white">
-            Website demonstrates an ability to construct a Full-Stack application with the following
-            features: User Authentication Front End (with react material-ui) Full CRUD Operations: 
-            Create, post, Read, Update, Delete, Add Cart, with API calls via routes and requests 
-            we will make with React.
+            Website demonstrates an ability to construct a Full-Stack
+            application with the following features: User Authentication Front
+            End (with react material-ui) Full CRUD Operations: Create, post,
+            Read, Update, Delete, Add Cart, with API calls via routes and
+            requests we will make with React.
           </h5>
-          <p className="text-sm md:text-base leading-7 font-secondary font-semibold text-gray-color">
-            Full Stack Development
+          <div>
+            <h1 className="text-sm md:text-xl leading-7 font-secondary font-semibold">Technologies:</h1>
+          <p>
+            Frontend: React, Typescript, Bootstrap.
+            Database: API, Google Firebase
           </p>
+          </div>
         </a>
 
         <a
@@ -92,9 +103,9 @@ const SelectWork = () => {
           <div className="bg-[#232323] group-hover:bg-[#0291DE]  rounded-xl py-7 px-8 transition ease-out duration-300">
             <div className="flex justify-between">
               <h1 className="text-base leading-7 font-semibold font-primary text-white">
-              Weather App
+                Weather App
               </h1>
-              <p className="text-xl leading-6 font-secondary font-semibold text-gray-color">
+              <p className="text-xl leading-6 font-secondary font-semibold text-white">
                 Full Stack Development
               </p>
             </div>
@@ -106,18 +117,23 @@ const SelectWork = () => {
               className="grayscale group-hover:grayscale-0 group-hover:scale-110 w-full h-full object-cover transition ease-out duration-300"
             />
           </div>
-            <h5 className="text-sm md:text-base leading-7 font-semibold font-primary text-white">
-              A Flutter application that provides current weather information and a 5-day forecast using the 
-              OpenWeather API. Features Display current weather conditions Show 5-day weather forecast Search 
-              for weather by city name Responsive UI for different screen sizes
-            </h5>
-            <p className="text-sm md:text-base leading-7 font-secondary font-semibold text-gray-color">
-              Full Stack Development
-            </p>
+          <h5 className="text-sm md:text-base leading-7 font-semibold font-primary text-white">
+            A Flutter application that provides current weather information and
+            a 5-day forecast using the OpenWeather API. Features Display current
+            weather conditions Show 5-day weather forecast Search for weather by
+            city name Responsive UI for different screen sizes
+          </h5>
+          <div>
+            <h1 className="text-sm md:text-xl leading-7 font-secondary font-semibold">Technologies:</h1>
+          <p>
+            Frontend : Flutter
+            Backend : Dart
+          </p>
+          </div>
         </a>
       </div>
       <div className="flex flex-wrap md:flex-wrap lg:flex-nowrap gap-6 justify-center lg:justify-between mt-16 ">
-      <a
+        <a
           className="grid gap-y-2 bg-dark-black  rounded-xl px-2 py-3 group cursor-pointer"
           href="https://github.com/Bikramai/Pokemon-Game-App"
           target="_blank"
@@ -128,7 +144,7 @@ const SelectWork = () => {
               <h5 className="text-sm md:text-base leading-7 font-semibold font-primary text-white">
                 Pokemon Game
               </h5>
-              <p className="text-sm md:text-base leading-6 font-secondary font-semibold text-gray-color">
+              <p className="text-sm md:text-base leading-6 font-secondary font-semibold text-white">
                 Full Stack Development
               </p>
             </div>
@@ -141,12 +157,18 @@ const SelectWork = () => {
             />
           </div>
           <h5 className="text-sm md:text-base leading-7 font-semibold font-primary text-white">
-            Pokémon Battle web application that allows users to fetch Battle Data - Users can input 
-            an opponent's name to fetch their Pokémon data and prepare for a battle.
+            Pokémon Battle web application that allows users to fetch Battle
+            Data - Users can input an opponent's name to fetch their Pokémon
+            data and prepare for a battle.
           </h5>
-          <p className="text-sm md:text-base leading-7 font-secondary font-semibold text-gray-color">
-            Full Stack Development
+          <div>
+            <h1 className="text-sm md:text-xl leading-7 font-secondary font-semibold">Technologies:</h1>
+          <p>
+            Frontend: React, Javascript, CSS, HTML.
+            Backend: Node.js, Express(ES6), JWT, Axios
+            Database: SQLite, PostgreSQL
           </p>
+          </div>
         </a>
 
         <a
@@ -160,7 +182,7 @@ const SelectWork = () => {
               <h5 className="text-base leading-7 font-semibold font-primary text-white">
                 Parkinson Ai
               </h5>
-              <p className="text-sm md:text-base leading-6 font-secondary font-semibold text-gray-color">
+              <p className="text-sm md:text-base leading-6 font-secondary font-semibold text-gray-white">
                 Full Stack Development
               </p>
             </div>
@@ -173,12 +195,18 @@ const SelectWork = () => {
             />
           </div>
           <h5 className="text-sm md:text-base leading-7 font-semibold font-primary text-white">
-            PARKINSON is an innovative web application designed Detect the neurological diseases 
-            symtoms by sending voice through the restfull api so it detact the diseases against your voice.
+            PARKINSON is an innovative web application designed Detect the
+            neurological diseases symtoms by sending voice through the restfull
+            api so it detact the diseases against your voice.
           </h5>
-          <p className="text-sm md:text-base leading-7 font-secondary font-semibold text-gray-color">
-            Full Stack Development
+          <div>
+            <h1 className="text-sm md:text-xl leading-7 font-secondary font-semibold">Technologies:</h1>
+          <p>
+            Frontend : Javascript, Express(ES6), CSS, HTML.                                     
+            Backend : Python, Django
+            Database : API, SQLite, PostgreSQL
           </p>
+          </div>
         </a>
 
         <a
@@ -192,7 +220,7 @@ const SelectWork = () => {
               <h5 className="text-base leading-7 font-semibold font-primary text-white">
                 Cleaning Service
               </h5>
-              <p className="text-sm md:text-base leading-6 font-secondary font-semibold text-gray-color">
+              <p className="text-sm md:text-base leading-6 font-secondary font-semibold text-white">
                 Full Stack Development
               </p>
             </div>
@@ -205,12 +233,18 @@ const SelectWork = () => {
             />
           </div>
           <h5 className="text-sm md:text-base leading-7 font-semibold font-primary text-white">
-            Omni Serve is an innovative web application designed For providing Cleaning Service Online , 
-            User can Order their Service Using Form Submission or Directly call to company.
+            Omni Serve is an innovative web application designed For providing
+            Cleaning Service Online , User can Order their Service Using Form
+            Submission or Directly call to company.
           </h5>
-          <p className="text-sm md:text-base leading-7 font-secondary font-semibold text-gray-color">
-            Full Stack Development
+          <div>
+            <h1 className="text-sm md:text-xl leading-7 font-secondary font-semibold">Technologies:</h1>
+          <p>
+            Frontend : Javascript, Express(ES6), Bootstrap, CSS, HTML.                                     
+            Backend : Python, Django,
+            Database : PostgreSQL
           </p>
+          </div>
         </a>
       </div>
     </div>

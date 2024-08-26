@@ -6,6 +6,20 @@ import w4 from "../assets/images/w4.png";
 import w5 from "../assets/images/w5.png";
 import w6 from "../assets/images/w6.png";
 
+import t1 from "@/assets/images/js.svg";
+import t2 from "@/assets/images/btstrap.svg";
+import t3 from "@/assets/images/tapi.png";
+import t4 from "@/assets/images/python.svg";
+import t5 from "@/assets/images/tdjango.svg";
+import t6 from "@/assets/images/postgresql.svg";
+import t7 from "@/assets/images/treact.svg";
+import t8 from "@/assets/images/ts.svg";
+import t9 from "@/assets/images/firebase.svg";
+import t10 from "@/assets/images/flutter.svg";
+import t11 from "@/assets/images/dart.svg";
+import t12 from "@/assets/images/nodejs.svg";
+import t13 from "@/assets/images/jwt.svg";
+
 const SelectWork = () => {
   return (
     <div className="pt-14" id="select-work">
@@ -36,7 +50,7 @@ const SelectWork = () => {
           <div className="overflow-hidden w-full h-full object-cover lg:h-full rounded-xl">
             <img
               src={w1}
-              alt=""
+              alt="BookieMart app"
               className="grayscale group-hover:grayscale-0 group-hover:scale-110 transition ease-out duration-300"
             />
           </div>
@@ -51,7 +65,86 @@ const SelectWork = () => {
           <p>
             Frontend: JavaScript, HTML, CSS, Bootstrap.
             Backend: Python, Django Database: PostgreSQL
-          </p>
+          </p><br></br>
+            <div className="flex justify-center">
+            <a
+                className="overflow-hidden rounded-xl h-full"
+                href="https://github.com/Bikramai/Storefront3-App-Django"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <img
+                  src={t1}
+                  alt="js Logo"
+                  className="h-full w-full object-cover hover:scale-110 grayscale hover:grayscale-0 transition duration-300"
+                />
+              </a>
+
+              <a
+                className="overflow-hidden rounded-xl h-full"
+                href="https://github.com/Bikramai/Storefront3-App-Django"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <img
+                  src={t2}
+                  alt="bootstrap Logo"
+                  className="h-full w-full object-cover hover:scale-110 grayscale hover:grayscale-0 transition duration-300"
+                />
+              </a>
+
+              <a
+                className="overflow-hidden rounded-xl h-full"
+                href="https://github.com/Bikramai/Storefront3-App-Django"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <img
+                  src={t3}
+                  alt="api Logo"
+                  className="h-full w-full object-cover hover:scale-110 grayscale hover:grayscale-0 transition duration-300"
+                />
+              </a>
+
+              <a
+                className="overflow-hidden rounded-xl h-full"
+                href="https://github.com/Bikramai/Storefront3-App-Django"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <img
+                  src={t4}
+                  alt="python Logo"
+                  className="h-full w-full object-cover hover:scale-110 grayscale hover:grayscale-0 transition duration-300"
+                />
+              </a>
+
+              <a
+                className="overflow-hidden rounded-xl h-full"
+                href="https://github.com/Bikramai/Storefront3-App-Django"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <img
+                  src={t5}
+                  alt="Django Logo"
+                  className="h-full w-full object-cover hover:scale-110 grayscale hover:grayscale-0 transition duration-300"
+                />
+              </a>
+
+              <a
+                className="overflow-hidden rounded-xl h-full"
+                href="https://github.com/Bikramai/Storefront3-App-Django"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <img
+                  src={t6}
+                  alt="Postgresql Logo"
+                  className="h-full w-full object-cover hover:scale-110 grayscale hover:grayscale-0 transition duration-300"
+                />
+              </a>
+            </div>
           </div>
         </a>
 
@@ -90,7 +183,100 @@ const SelectWork = () => {
           <p>
             Frontend: React, Typescript, Bootstrap.
             Database: API, Google Firebase
-          </p>
+          </p><br></br>
+
+          <div className="flex justify-center">
+            <a
+                className="overflow-hidden rounded-xl h-full"
+                href="https://github.com/Bikramai/Storefront3-App-Django"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <img
+                  src={t7}
+                  alt="react Logo"
+                  className="h-full w-full object-cover hover:scale-110 grayscale hover:grayscale-0 transition duration-300"
+                />
+              </a>
+
+              <a
+                className="overflow-hidden rounded-xl h-full"
+                href="https://github.com/Bikramai/Storefront3-App-Django"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <img
+                  src={t2}
+                  alt="bootstrap Logo"
+                  className="h-full w-full object-cover hover:scale-110 grayscale hover:grayscale-0 transition duration-300"
+                />
+              </a>
+
+              <a
+                className="overflow-hidden rounded-xl h-full"
+                href="https://github.com/Bikramai/Storefront3-App-Django"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <img
+                  src={t8}
+                  alt="typescript Logo"
+                  className="h-full w-full object-cover hover:scale-110 grayscale hover:grayscale-0 transition duration-300"
+                />
+              </a>
+
+              <a
+                className="overflow-hidden rounded-xl h-full"
+                href="https://github.com/Bikramai/Storefront3-App-Django"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <img
+                  src={t3}
+                  alt="api Logo"
+                  className="h-full w-full object-cover hover:scale-110 grayscale hover:grayscale-0 transition duration-300"
+                />
+              </a>
+
+              <a
+                className="overflow-hidden rounded-xl h-full"
+                href="https://github.com/Bikramai/Storefront3-App-Django"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <img
+                  src={t4}
+                  alt="python Logo"
+                  className="h-full w-full object-cover hover:scale-110 grayscale hover:grayscale-0 transition duration-300"
+                />
+              </a>
+
+              <a
+                className="overflow-hidden rounded-xl h-full"
+                href="https://github.com/Bikramai/Storefront3-App-Django"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <img
+                  src={t5}
+                  alt="Django Logo"
+                  className="h-full w-full object-cover hover:scale-110 grayscale hover:grayscale-0 transition duration-300"
+                />
+              </a>
+
+              <a
+                className="overflow-hidden rounded-xl h-full"
+                href="https://github.com/Bikramai/Storefront3-App-Django"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <img
+                  src={t9}
+                  alt="firebase Logo"
+                  className="h-full w-full object-cover hover:scale-110 grayscale hover:grayscale-0 transition duration-300"
+                />
+              </a>
+            </div>
           </div>
         </a>
 
@@ -128,7 +314,48 @@ const SelectWork = () => {
           <p>
             Frontend : Flutter
             Backend : Dart
-          </p>
+          </p><br></br>
+
+          <div className="flex justify-center">
+            <a
+                className="overflow-hidden rounded-xl h-full"
+                href="https://github.com/Bikramai/Storefront3-App-Django"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <img
+                  src={t10}
+                  alt="flutter Logo"
+                  className="h-full w-full object-cover hover:scale-110 grayscale hover:grayscale-0 transition duration-300"
+                />
+              </a>
+
+              <a
+                className="overflow-hidden rounded-xl h-full"
+                href="https://github.com/Bikramai/Storefront3-App-Django"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <img
+                  src={t11}
+                  alt="dart Logo"
+                  className="h-full w-full object-cover hover:scale-110 grayscale hover:grayscale-0 transition duration-300"
+                />
+              </a>
+
+              <a
+                className="overflow-hidden rounded-xl h-full"
+                href="https://github.com/Bikramai/Storefront3-App-Django"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <img
+                  src={t3}
+                  alt="api Logo"
+                  className="h-full w-full object-cover hover:scale-110 grayscale hover:grayscale-0 transition duration-300"
+                />
+              </a>
+            </div>
           </div>
         </a>
       </div>
@@ -167,7 +394,100 @@ const SelectWork = () => {
             Frontend: React, Javascript, CSS, HTML.
             Backend: Node.js, Express(ES6), JWT, Axios
             Database: SQLite, PostgreSQL
-          </p>
+          </p><br></br>
+
+          <div className="flex justify-center">
+            <a
+              className="overflow-hidden rounded-xl h-full"
+              href="https://github.com/Bikramai/Storefront3-App-Django"
+              target="_blank"
+              rel="noreferrer"
+            >
+              <img
+                src={t7}
+                alt="react Logo"
+                className="h-full w-full object-cover hover:scale-110 grayscale hover:grayscale-0 transition duration-300"
+              />
+            </a>
+
+            <a
+                className="overflow-hidden rounded-xl h-full"
+                href="https://github.com/Bikramai/Storefront3-App-Django"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <img
+                  src={t1}
+                  alt="js Logo"
+                  className="h-full w-full object-cover hover:scale-110 grayscale hover:grayscale-0 transition duration-300"
+                />
+              </a>
+
+              <a
+                className="overflow-hidden rounded-xl h-full"
+                href="https://github.com/Bikramai/Storefront3-App-Django"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <img
+                  src={t2}
+                  alt="bootstrap Logo"
+                  className="h-full w-full object-cover hover:scale-110 grayscale hover:grayscale-0 transition duration-300"
+                />
+              </a>
+
+              <a
+                className="overflow-hidden rounded-xl h-full"
+                href="https://github.com/Bikramai/Storefront3-App-Django"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <img
+                  src={t3}
+                  alt="api Logo"
+                  className="h-full w-full object-cover hover:scale-110 grayscale hover:grayscale-0 transition duration-300"
+                />
+              </a>
+
+              <a
+                className="overflow-hidden rounded-xl h-full"
+                href="https://github.com/Bikramai/Storefront3-App-Django"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <img
+                  src={t12}
+                  alt="nodejs Logo"
+                  className="h-full w-full object-cover hover:scale-110 grayscale hover:grayscale-0 transition duration-300"
+                />
+              </a>
+
+              <a
+                className="overflow-hidden rounded-xl h-full"
+                href="https://github.com/Bikramai/Storefront3-App-Django"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <img
+                  src={t13}
+                  alt="jwt Logo"
+                  className="h-full w-full object-cover hover:scale-110 grayscale hover:grayscale-0 transition duration-300"
+                />
+              </a>
+
+              <a
+                className="overflow-hidden rounded-xl h-full"
+                href="https://github.com/Bikramai/Storefront3-App-Django"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <img
+                  src={t6}
+                  alt="Postgresql Logo"
+                  className="h-full w-full object-cover hover:scale-110 grayscale hover:grayscale-0 transition duration-300"
+                />
+              </a>
+            </div>
           </div>
         </a>
 
@@ -205,7 +525,87 @@ const SelectWork = () => {
             Frontend : Javascript, Express(ES6), CSS, HTML.                                     
             Backend : Python, Django
             Database : API, SQLite, PostgreSQL
-          </p>
+          </p><br></br>
+
+          <div className="flex justify-center">
+            <a
+                className="overflow-hidden rounded-xl h-full"
+                href="https://github.com/Bikramai/Storefront3-App-Django"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <img
+                  src={t1}
+                  alt="js Logo"
+                  className="h-full w-full object-cover hover:scale-110 grayscale hover:grayscale-0 transition duration-300"
+                />
+              </a>
+
+              <a
+                className="overflow-hidden rounded-xl h-full"
+                href="https://github.com/Bikramai/Storefront3-App-Django"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <img
+                  src={t2}
+                  alt="bootstrap Logo"
+                  className="h-full w-full object-cover hover:scale-110 grayscale hover:grayscale-0 transition duration-300"
+                />
+              </a>
+
+              <a
+                className="overflow-hidden rounded-xl h-full"
+                href="https://github.com/Bikramai/Storefront3-App-Django"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <img
+                  src={t3}
+                  alt="api Logo"
+                  className="h-full w-full object-cover hover:scale-110 grayscale hover:grayscale-0 transition duration-300"
+                />
+              </a>
+
+              <a
+                className="overflow-hidden rounded-xl h-full"
+                href="https://github.com/Bikramai/Storefront3-App-Django"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <img
+                  src={t4}
+                  alt="python Logo"
+                  className="h-full w-full object-cover hover:scale-110 grayscale hover:grayscale-0 transition duration-300"
+                />
+              </a>
+
+              <a
+                className="overflow-hidden rounded-xl h-full"
+                href="https://github.com/Bikramai/Storefront3-App-Django"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <img
+                  src={t5}
+                  alt="Django Logo"
+                  className="h-full w-full object-cover hover:scale-110 grayscale hover:grayscale-0 transition duration-300"
+                />
+              </a>
+
+              <a
+                className="overflow-hidden rounded-xl h-full"
+                href="https://github.com/Bikramai/Storefront3-App-Django"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <img
+                  src={t6}
+                  alt="Postgresql Logo"
+                  className="h-full w-full object-cover hover:scale-110 grayscale hover:grayscale-0 transition duration-300"
+                />
+              </a>
+            </div>
           </div>
         </a>
 
@@ -243,7 +643,87 @@ const SelectWork = () => {
             Frontend : Javascript, Express(ES6), Bootstrap, CSS, HTML.                                     
             Backend : Python, Django,
             Database : PostgreSQL
-          </p>
+          </p> <br></br>
+
+          <div className="flex justify-center">
+            <a
+                className="overflow-hidden rounded-xl h-full"
+                href="https://github.com/Bikramai/Storefront3-App-Django"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <img
+                  src={t1}
+                  alt="js Logo"
+                  className="h-full w-full object-cover hover:scale-110 grayscale hover:grayscale-0 transition duration-300"
+                />
+              </a>
+
+              <a
+                className="overflow-hidden rounded-xl h-full"
+                href="https://github.com/Bikramai/Storefront3-App-Django"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <img
+                  src={t2}
+                  alt="bootstrap Logo"
+                  className="h-full w-full object-cover hover:scale-110 grayscale hover:grayscale-0 transition duration-300"
+                />
+              </a>
+
+              <a
+                className="overflow-hidden rounded-xl h-full"
+                href="https://github.com/Bikramai/Storefront3-App-Django"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <img
+                  src={t3}
+                  alt="api Logo"
+                  className="h-full w-full object-cover hover:scale-110 grayscale hover:grayscale-0 transition duration-300"
+                />
+              </a>
+
+              <a
+                className="overflow-hidden rounded-xl h-full"
+                href="https://github.com/Bikramai/Storefront3-App-Django"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <img
+                  src={t4}
+                  alt="python Logo"
+                  className="h-full w-full object-cover hover:scale-110 grayscale hover:grayscale-0 transition duration-300"
+                />
+              </a>
+
+              <a
+                className="overflow-hidden rounded-xl h-full"
+                href="https://github.com/Bikramai/Storefront3-App-Django"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <img
+                  src={t5}
+                  alt="Django Logo"
+                  className="h-full w-full object-cover hover:scale-110 grayscale hover:grayscale-0 transition duration-300"
+                />
+              </a>
+
+              <a
+                className="overflow-hidden rounded-xl h-full"
+                href="https://github.com/Bikramai/Storefront3-App-Django"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <img
+                  src={t6}
+                  alt="Postgresql Logo"
+                  className="h-full w-full object-cover hover:scale-110 grayscale hover:grayscale-0 transition duration-300"
+                />
+              </a>
+            </div>
           </div>
         </a>
       </div>

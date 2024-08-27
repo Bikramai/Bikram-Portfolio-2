@@ -1,10 +1,12 @@
 # Portfolio-Website with Reactjs
 
-# Bikram-Portfolio-3
-
 
 # Project Overview
-
+This portfolio is built using the UX design I have done in figma and the React development technologies in web development: 
+⭐ Figma for stunning Design 
+⭐ React for a dynamic and responsive user interface 
+⭐ Tailwind CSS for sleek and modern styling
+⭐ Vite
 
 
 ## Technologies

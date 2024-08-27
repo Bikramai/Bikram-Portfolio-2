@@ -6,24 +6,31 @@ import gray from "../assets/images/gray.png";
 const AboutMe = () => {
   return (
     <div className="pt-28 w-full " id="intro">
-      <div className="grid grid-cols-1 gap-2 lg:gap-12 h-full desktop-sec">
+      <div className="grid grid-cols-1 gap-2 lg:gap-12 h-full desktop-sec mobile-sec">
         <div className=" xl:pr-14">
-          <h3 className="text-4xl sm:text-xl sm:font-semibold sm:leading-[74px] font-primary text-gray-color ">
-            <label className="text-light-color">Results-driven full-stack developer</label> with a
-            strong foundation in business and customer services, seeking a position in{" "}
-            <label className="text-light-color">software development.</label> With expertise in{" "}
-            <label className="text-light-color">JavaScript</label> (including{" "}
-            <label className="text-light-color">Node.js and React), Python </label> and{" "}
-            <label className="text-light-color">database design and implementation,</label> and
-            committed to delivering user-first front-end views supported by robust, efficient
-            back-end solutions. Bringing a unique blend of{" "}
-            <label className="text-light-color">empathetic</label> and{" "}
+          <h3 className="text-xl sm:text-xl sm:font-semibold sm:leading-[62px] font-primary text-gray-color ">
+            <label className="text-light-color">Full stack software engineer,</label> with a
+            interested in crafting high-quality, clean code and continuing to expand my interest in{" "}
+            <label className="text-light-color">algorithms, data structures, object-oriented code, </label> and scalable design with coding on{" "}
+            <label className="text-light-color">JavaScript,</label>{" "}
+            <label className="text-light-color">TypeScript, C#, Python, SQL.</label> Frameworks I've worked with{" "}
+            <label className="text-light-color">: React, Node.js, .NET, Flask, Django</label> and
+            Love working with <label className="text-light-color">REST APIs</label>{" "}and <label className="text-light-color">PostgreSQL</label>{" "}
+            databases on backend. I have a particular interest in translating UI designs into reality,
+            AI generative tools to solve problems, clean, refactored code, testing and TDD, and would love to learn more about Cloud hosting. 🎨
+            
+            I specialize in crating complex and innovatve interfaces, scalable logic, and problem-soving abilites. 
+            I provide customized solutions that merge innovation, quality, and proessionalism to achieve client objectives 
+            and foster business success.{" "}🚀
+
+            Committed to delivering user-first front-end views supported by robust, efficient back-end solutions.
+            Bringing a unique blend of{" "}<label className="text-light-color">empathetic</label> and{" "}
             <label className="text-light-color">analytical problem-solving</label> that enhances
             both the technical and business aspects of development. Excels within collaborative,
             technically-driven environments,{" "}
             <label className="text-light-color">enthusiastically poised</label> to enhance and
             <label className="text-light-color"> elevate </label> user experiences alongside your{" "}
-            <label className="text-light-color">esteemed team!</label>
+            <label className="text-light-color">esteemed team!</label> 
           </h3>
           <div className="flex justify-between mt-8">
             <span className="text-base font-secondary font-normal text-gray-color leading-5">

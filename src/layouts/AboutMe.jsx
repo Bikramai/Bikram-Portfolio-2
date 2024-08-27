@@ -5,7 +5,7 @@ import gray from "../assets/images/gray.png";
 
 const AboutMe = () => {
   return (
-    <div className="pt-20 w-full " id="intro">
+    <div className="pt-24 w-full " id="intro">
       <div className="grid grid-cols-1 gap-2 lg:gap-12 h-full desktop-sec">
         <div className=" xl:pr-14">
           <h3 className="text-xl sm:text-xl sm:font-semibold sm:leading-[62px] font-primary text-gray-color ">

@@ -6,12 +6,13 @@ import g5 from "@/assets/images/g5.png";
 import g6 from "@/assets/images/g6.png";
 import g7 from "@/assets/images/g7.png";
 import g8 from "@/assets/images/g8.png";
-import g9 from "@/assets/images/g9.svg";
+import g9 from "@/assets/images/reactt.svg";
 import g10 from "@/assets/images/g10.png";
 import g11 from "@/assets/images/g11.png";
-import g12 from "@/assets/images/g12.svg";
-import g13 from "@/assets/images/g13.svg";
-import g14 from "@/assets/images/g14.png";
+import g12 from "@/assets/images/node-js.svg";
+import g13 from "@/assets/images/python2.svg";
+import g14 from "@/assets/images/django2.svg";
+import g15 from "@/assets/images/api3.png";
 
 const ImagesSection = () => {
   return (
@@ -192,8 +193,8 @@ const ImagesSection = () => {
           />
         </a>   */}
         <div>
-          <div className="grid gap-2">
-            <div className="flex gap-2">
+          {/* <div className="grid gap-2"> */}
+            <div className="flex justify-center gap-2">
               <a
                 className="overflow-hidden rounded-xl h-full"
                 href="https://github.com/Bikramai/Book-land-Ecomerce-Store"
@@ -215,6 +216,19 @@ const ImagesSection = () => {
                 <img
                   src={g12}
                   alt="Node.js logo"
+                  className="h-full w-full object-cover hover:scale-110 grayscale hover:grayscale-0 transition duration-300"
+                />
+              </a>
+
+              <a
+                className="overflow-hidden rounded-xl h-full"
+                href="https://github.com/Bikramai/Node.js---Vidly-Apps"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <img
+                  src={g15}
+                  alt="api logo"
                   className="h-full w-full object-cover hover:scale-110 grayscale hover:grayscale-0 transition duration-300"
                 />
               </a>
@@ -246,7 +260,7 @@ const ImagesSection = () => {
           </div>
         </div>
       </div>
-    </div>
+    // </div>
   );
 };
 

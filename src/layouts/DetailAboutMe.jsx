@@ -277,8 +277,8 @@ const DetailAboutMe = () => {
           {/* //- 1st  */}
           <div className="bg-dark-black rounded-xl p-6">
             <h5 className="font-primary font-medium  text-xl">
-              I'm a newly minted Junior Full Stack Developer coding in JavaScript, TypeScript, Python, SQL. 
-              Frameworks I've worked with:Flask, Django, React, Node.js. Love working with REST APIs 
+              I'm a Full Stack Developer coding on JavaScript, TypeScript, C#, Python, SQL. 
+              Frameworks I've worked with: Flask, Django, React, Node.js, .NET. Love working with REST APIs 
               and PostgreSQL databases on backend. I can't wait to find my first full time opportunity.
             </h5>
             <a

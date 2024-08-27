@@ -55,6 +55,7 @@ const SelectWork = () => {
             />
           </div>
           <h5 className="text-sm md:text-base leading-7 font-semibold font-primary text-white">
+          <h1 className="text-sm md:text-xl leading-7 font-secondary font-semibold">Description:</h1>
             This web application is designed to combine the best aspects of
             social media and e-commerce for book lovers. Users can browse
             products, make purchases, and share their favorite items with
@@ -172,6 +173,7 @@ const SelectWork = () => {
             />
           </div>
           <h5 className="text-sm md:text-base leading-7 font-semibold font-primary text-white">
+          <h1 className="text-sm md:text-xl leading-7 font-secondary font-semibold">Description:</h1>
             Website demonstrates an ability to construct a Full-Stack
             application with the following features: User Authentication Front
             End (with react material-ui) Full CRUD Operations: Create, post,
@@ -304,6 +306,7 @@ const SelectWork = () => {
             />
           </div>
           <h5 className="text-sm md:text-base leading-7 font-semibold font-primary text-white">
+          <h1 className="text-sm md:text-xl leading-7 font-secondary font-semibold">Description:</h1>
             A Flutter application that provides current weather information and
             a 5-day forecast using the OpenWeather API. Features Display current
             weather conditions Show 5-day weather forecast Search for weather by
@@ -384,6 +387,7 @@ const SelectWork = () => {
             />
           </div>
           <h5 className="text-sm md:text-base leading-7 font-semibold font-primary text-white">
+          <h1 className="text-sm md:text-xl leading-7 font-secondary font-semibold">Description:</h1>
             Pokémon Battle web application that allows users to fetch Battle
             Data - Users can input an opponent's name to fetch their Pokémon
             data and prepare for a battle.
@@ -515,6 +519,7 @@ const SelectWork = () => {
             />
           </div>
           <h5 className="text-sm md:text-base leading-7 font-semibold font-primary text-white">
+          <h1 className="text-sm md:text-xl leading-7 font-secondary font-semibold">Description:</h1>
             PARKINSON is an innovative web application designed Detect the
             neurological diseases symtoms by sending voice through the restfull
             api so it detact the diseases against your voice.
@@ -633,6 +638,7 @@ const SelectWork = () => {
             />
           </div>
           <h5 className="text-sm md:text-base leading-7 font-semibold font-primary text-white">
+          <h1 className="text-sm md:text-xl leading-7 font-secondary font-semibold">Description:</h1>
             Omni Serve is an innovative web application designed For providing
             Cleaning Service Online , User can Order their Service Using Form
             Submission or Directly call to company.

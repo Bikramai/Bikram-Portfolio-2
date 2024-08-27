@@ -279,7 +279,7 @@ const DetailAboutMe = () => {
             <h5 className="font-primary font-medium  text-xl">
               I'm a Full Stack Developer coding on JavaScript, TypeScript, C#, Python, SQL. 
               Frameworks I've worked with: Flask, Django, React, Node.js, .NET. Love working with REST APIs 
-              and PostgreSQL databases on backend. I can't wait to find my first full time opportunity.
+              and PostgreSQL databases on backend. I can't wait to find my first full time opportunity.{" "}🙇
             </h5>
             <a
               className="font-primary font-medium text-base mt-1 flex items-center bg-[#2F2F2F] h-8 rounded-md gap-2 px-4 py-6 ml-auto w-32"

@@ -30,6 +30,9 @@ import t33 from "@/assets/images/stack-icons/image23.svg";
 import t34 from "@/assets/images/stack-icons/image24.svg";
 import t35 from "@/assets/images/stack-icons/image25.svg";
 import t36 from "@/assets/images/stack-icons/image26.svg";
+import t37 from "@/assets/images/stack-icons/image27.svg";
+import t38 from "@/assets/images/stack-icons/image28.svg";
+import t39 from "@/assets/images/stack-icons/image29.png";
 import f1 from "@/assets/images/f1.svg";
 import f2 from "@/assets/images/f2.svg";
 import f3 from "@/assets/images/f3.svg";
@@ -182,6 +185,21 @@ const images = [
     id: 26,
     img: t36,
     title: "DOCKER",
+  },
+  {
+    id: 27,
+    img: t37,
+    title: "MONGODB",
+  },
+  {
+    id: 28,
+    img: t38,
+    title: "HEROKU",
+  },
+  {
+    id: 29,
+    img: t39,
+    title: "NETLIFY",
   },
 ];
 

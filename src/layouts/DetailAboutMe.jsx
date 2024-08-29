@@ -4,27 +4,32 @@ import Headings from "@/components/Headings";
 import download from "@/assets/images/download.svg";
 import signature from "@/assets/images/signature.svg";
 import aboutPic from "@/assets/images/about-pic.svg";
-import t11 from "@/assets/images/stack-icons/image11.svg";
-import t12 from "@/assets/images/stack-icons/image12.svg";
-import t13 from "@/assets/images/stack-icons/image13.svg";
-import t14 from "@/assets/images/stack-icons/image14.svg";
-import t15 from "@/assets/images/stack-icons/image15.svg";
-import t17 from "@/assets/images/stack-icons/image17.svg";
-import t18 from "@/assets/images/stack-icons/image18.svg";
-import t19 from "@/assets/images/stack-icons/image19.svg";
-import t20 from "@/assets/images/stack-icons/image20.svg";
-import t21 from "@/assets/images/stack-icons/image21.svg";
-import t22 from "@/assets/images/stack-icons/image22.svg";
-import t23 from "@/assets/images/stack-icons/image23.svg";
-import t24 from "@/assets/images/stack-icons/image24.svg";
-import t25 from "@/assets/images/stack-icons/image25.svg";
-import t26 from "@/assets/images/stack-icons/image26.svg";
-import t27 from "@/assets/images/stack-icons/image27.svg";
-import t28 from "@/assets/images/stack-icons/image28.svg";
-import t29 from "@/assets/images/stack-icons/image29.svg";
-import t30 from "@/assets/images/stack-icons/image30.svg";
-import t31 from "@/assets/images/stack-icons/image31.svg";
-import t32 from "@/assets/images/stack-icons/image32.svg";
+import t11 from "@/assets/images/stack-icons/image1.svg";
+import t12 from "@/assets/images/stack-icons/image2.svg";
+import t13 from "@/assets/images/stack-icons/image3.svg";
+import t14 from "@/assets/images/stack-icons/image4.svg";
+import t15 from "@/assets/images/stack-icons/image5.svg";
+import t16 from "@/assets/images/stack-icons/image6.svg";
+import t17 from "@/assets/images/stack-icons/image7.svg";
+import t18 from "@/assets/images/stack-icons/image8.svg";
+import t19 from "@/assets/images/stack-icons/image9.svg";
+import t20 from "@/assets/images/stack-icons/image10.svg";
+import t21 from "@/assets/images/stack-icons/image11.svg";
+import t22 from "@/assets/images/stack-icons/image12.svg";
+import t23 from "@/assets/images/stack-icons/image13.svg";
+import t24 from "@/assets/images/stack-icons/image14.svg";
+import t25 from "@/assets/images/stack-icons/image15.svg";
+import t26 from "@/assets/images/stack-icons/image16.svg";
+import t27 from "@/assets/images/stack-icons/image17.svg";
+import t28 from "@/assets/images/stack-icons/image18.svg";
+import t29 from "@/assets/images/stack-icons/image19.png";
+import t30 from "@/assets/images/stack-icons/image20.svg";
+import t31 from "@/assets/images/stack-icons/image21.svg";
+import t32 from "@/assets/images/stack-icons/image22.svg";
+import t33 from "@/assets/images/stack-icons/image23.svg";
+import t34 from "@/assets/images/stack-icons/image24.svg";
+import t35 from "@/assets/images/stack-icons/image25.svg";
+import t36 from "@/assets/images/stack-icons/image26.svg";
 import f1 from "@/assets/images/f1.svg";
 import f2 from "@/assets/images/f2.svg";
 import f3 from "@/assets/images/f3.svg";
@@ -60,103 +65,123 @@ const images = [
   },
   {
     id: 3,
-    img: t27,
+    img: t13,
     title: "JAVASCRIPT",
   },
   {
     id: 4,
-    img: t14,
-    title: "JAVA",
-  },
-  {
-    id: 17,
-    img: t28,
-    title: "TYPESCRIPT",
-  },
-  {
-    id: 3,
-    img: t13,
-    title: "PYTHON",
-  },
-  {
-    id: 5,
-    img: t15,
-    title: "DJANGO",
-  },
-  {
-    id: 6,
-    img: t17,
-    title: "BOOTSTRAP",
-  },
-  {
-    id: 7,
-    img: t18,
-    title: "FIREBASE",
-  },
-  {
-    id: 8,
-    img: t19,
-    title: "SEQUELIZE",
-  },
-  {
-    id: 9,
-    img: t20,
-    title: "FLASK",
-  },
-  {
-    id: 10,
-    img: t21,
-    title: "GIT HUB",
-  },
-  {
-    id: 11,
-    img: t22,
-    title: "VS CODE",
-  },
-  {
-    id: 12,
-    img: t23,
-    title: "POSTGRESQL",
-  },
-  {
-    id: 13,
-    img: t24,
-    title: "SQLA",
-  },
-  {
-    id: 14,
-    img: t25,
-    title: "REACT",
-  },
-  {
-    id: 15,
-    img: t26,
+    img:t14,
     title: "NODE JS",
   },
   {
-    id: 18,
-    img: t29,
+      id: 5,
+      img: t15,
+      title: "TYPESCRIPT",
+  },
+  {
+    id: 6,
+    img: t16,
+    title: "REACT",
+  },
+  {
+    id: 7,
+    img: t17,
+    title: "JAVA",
+  },
+  {
+  id: 8,
+  img: t18,
+  title: "C#",
+  },
+  {
+  id: 9,
+  img: t19,
+  title: ".NET",
+  },
+  {
+    id: 10,
+    img: t20,
+    title: "PYTHON",
+  },
+  {
+    id: 11,
+    img: t21,
+    title: "FLASK",
+  },
+  {
+    id: 12,
+    img: t22,
+    title: "DJANGO",
+  },
+  {
+    id: 13,
+    img: t23,
     title: "SQL",
   },
   {
-    id: 19,
-    img: t30,
-    title: "GIT",
+    id: 14,
+    img: t24,
+    title: "POSTGRESQL",
   },
   {
-    id: 20,
-    img: t31,
+    id: 15,
+    img: t25,
+    title: "FIREBASE",
+  },
+  {
+    id: 16,
+    img: t26,
+    title: "SQLITE3",
+  },
+  {
+    id: 17,
+    img: t27,
     title: "TAILWIND CSS",
   },
   {
-    id: 21,
-    img: figma,
-    title: "Figma",
+    id: 18,
+    img: t28,
+    title: "BOOTSTRAP",
   },
   {
-    id: 32,
+    id: 19,
+    img: t29,
+    title: "API",
+  },
+  {
+    id: 20,
+    img: t30,
+    title: "JWT",
+  },
+  {
+    id: 21,
+    img: t31,
+    title: "JQUERY",
+  },
+  {
+    id: 22,
     img: t32,
     title: "POSTMAN",
+  },
+  {
+    id: 23,
+    img: t33,
+    title: "VS CODE",
+  },
+  {
+    id: 24,
+    img: t34,
+    title: "GIT HUB",
+  },
+  {
+    id: 25,
+    img: t35,
+    title: "GITLAB",
+  },
+  {
+    id: 26,
+    img: t36,
+    title: "DOCKER",
   },
 ];
 

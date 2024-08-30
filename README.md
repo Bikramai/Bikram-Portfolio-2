@@ -27,3 +27,7 @@ Open terminal and run the command below, make sure all requirements are installe
 npm run dev
 ```
 
+
+<h4>ALERT !</h4>
+<p>Application is developed by <a href="https://github.com/Bikramai/">Bikram</a> .
+</p>

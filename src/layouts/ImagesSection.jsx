@@ -209,7 +209,7 @@ const ImagesSection = () => {
               </a>
               <a
                 className="overflow-hidden rounded-xl h-full"
-                href="https://github.com/Bikramai/Node.js---Vidly-Apps"
+                href="https://github.com/Bikramai/Pokemon-Game-App"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -246,9 +246,9 @@ const ImagesSection = () => {
               </a>
               <a
                 className="overflow-hidden rounded-xl h-full"
-                href="https://github.com/Bikramai/Storefront3-App-Django"
+                href="https://github.com/Bikramai/Bridetool"
                 target="_blank"
-                rel="noreferrer"
+                rel="Python with Django"
               >
                 <img
                   src={g14}

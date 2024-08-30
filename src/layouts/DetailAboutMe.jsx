@@ -311,9 +311,9 @@ const DetailAboutMe = () => {
       <Headings
         headingFirst="about"
         headingSecond="me"
-        subHeadOne="based in america"
-        subHeadTwo="detail-oriented"
-        subHeadThree="curious"
+        subHeadOne="Understand"
+        subHeadTwo="Research"
+        subHeadThree="Implementation"
       />
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mt-20">
         <div className="grid gap-y-6">

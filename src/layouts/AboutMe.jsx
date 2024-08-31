@@ -23,7 +23,7 @@ const AboutMe = () => {
             
             I specialize in crafting complex and innovatve interfaces, scalable logic, and problem-soving abilites. 
             I provide <label className="text-light-color">{" "}customized solutions</label>{" "}
-            that <label className="text-light-color">{" "}merge innovation, quality,</label>{" "}and proessionalism to achieve client objectives 
+            that <label className="text-light-color">{" "}merge innovation, quality,</label>{" "}and professionalism to achieve client objectives 
             and foster business success.{" "}🚀
 
             Committed to delivering user-first front-end views supported by robust, efficient back-end solutions.

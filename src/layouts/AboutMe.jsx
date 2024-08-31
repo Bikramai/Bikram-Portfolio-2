@@ -16,11 +16,14 @@ const AboutMe = () => {
             <label className="text-light-color">TypeScript, C#, Python, SQL.</label> Frameworks I've worked with{" "}
             <label className="text-light-color">: React, Node.js, .NET, Flask, Django</label> and
             Love working with <label className="text-light-color">REST APIs</label>{" "}and <label className="text-light-color">PostgreSQL</label>{" "}
-            databases on backend. I have a particular interest in translating UI designs into reality,
-            AI generative tools to solve problems, clean, refactored code, testing and TDD, and would love to learn more about Cloud hosting. 🎨
+            databases on backend. I have a particular interest in <label className="text-light-color">translating UI</label> designs into reality,
+            <label className="text-light-color">{" "}AI generative</label>{" "}tools to solve problems, <label className="text-light-color">{" "}
+            clean, refactored code, testing</label>{" "}and <label className="text-light-color">{" "}TDD,</label>{" "}and would love to learn more about 
+            <label className="text-light-color">{" "}Cloud hosting.</label>{" "}🎨
             
-            I specialize in crating complex and innovatve interfaces, scalable logic, and problem-soving abilites. 
-            I provide customized solutions that merge innovation, quality, and proessionalism to achieve client objectives 
+            I specialize in crafting complex and innovatve interfaces, scalable logic, and problem-soving abilites. 
+            I provide <label className="text-light-color">{" "}customized solutions</label>{" "}
+            that <label className="text-light-color">{" "}merge innovation, quality,</label>{" "}and proessionalism to achieve client objectives 
             and foster business success.{" "}🚀
 
             Committed to delivering user-first front-end views supported by robust, efficient back-end solutions.

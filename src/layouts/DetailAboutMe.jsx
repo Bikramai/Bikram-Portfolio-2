@@ -33,7 +33,8 @@ import t36 from "@/assets/images/stack-icons/image26.svg";
 import t37 from "@/assets/images/stack-icons/image27.svg";
 import t38 from "@/assets/images/stack-icons/image28.svg";
 import t39 from "@/assets/images/stack-icons/image29.png";
-import t40 from "@/assets/images/stack-icons/image30.svg";
+import t40 from "@/assets/images/stack-icons/image30.png";
+import t41 from "@/assets/images/stack-icons/image31.svg";
 import f1 from "@/assets/images/f1.svg";
 import f2 from "@/assets/images/f2.svg";
 import f3 from "@/assets/images/f3.svg";
@@ -205,6 +206,11 @@ const images = [
   {
     id: 30,
     img: t40,
+    title: "DIGITALOCEAN",
+  },
+  {
+    id: 31,
+    img: t41,
     title: "INTELLIJ",
   },
 ];

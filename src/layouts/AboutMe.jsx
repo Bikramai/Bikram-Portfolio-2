@@ -9,7 +9,7 @@ const AboutMe = () => {
       <div className="grid grid-cols-1 gap-2 lg:gap-12 h-full desktop-sec">
         <div className=" xl:pr-14">
           <h3 className="text-xl sm:text-xl sm:font-semibold sm:leading-[62px] font-primary text-gray-color ">
-            <label className="text-light-color">Full stack software engineer,</label> with a
+            <label className="text-light-color">I'm a Full Stack Software Engineer,</label> with a
             interested in crafting high-quality, clean code and continuing to expand my interest in{" "}
             <label className="text-light-color">algorithms, data structures, object-oriented code, </label> and scalable design with coding on{" "}
             <label className="text-light-color">JavaScript,</label>{" "}

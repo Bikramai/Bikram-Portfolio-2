@@ -364,7 +364,7 @@ const DetailAboutMe = () => {
 
               <p className="mt-5">
                 Driven by a<span className="text-white">{" "}passion for technology</span>{" "}and a relentless <span className="text-white">curiosity,</span>{" "} 
-                with a background in <span className="text-white">computer science</span>{" "}as well, I made a deliberate transition into software engineering. 
+                with a background in <span className="text-white">major in computer science with information technology</span>{" "}as well, I made a deliberate transition into software engineering. 
                 This shift was motivated by a desire to leverage my <span className="text-white">analytical skills</span>{" "}and <span className="text-white">innovative mindset</span>{" "}
                 in a field that continuously evolves. My background in business has provided me with a unique perspective on technology's role in <span className="text-white">solving real-world</span>{" "}
                 problems, allowing me to approach software development with a holistic view that balances technical excellence with <span className="text-white">practical applicability.</span>

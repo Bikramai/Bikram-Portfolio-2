@@ -593,10 +593,10 @@ const DetailAboutMe = () => {
             </p>
             <img src={experImg} alt="" className="mx-auto my-5" />
             <img src={experImg1} alt="" className="mx-auto my-5" />
-            <img src={experImg} alt="" className="mx-auto my-5" />
+            {/* <img src={experImg} alt="" className="mx-auto my-5" />
             <img src={experImg1} alt="" className="mx-auto my-5" />
             <img src={experImg} alt="" className="mx-auto my-5" />
-            <img src={experImg1} alt="" className="mx-auto my-5" />
+            <img src={experImg1} alt="" className="mx-auto my-5" /> */}
           </div>
 
           {/* //+ 9th  */}

@@ -35,6 +35,7 @@ import t38 from "@/assets/images/stack-icons/image28.svg";
 import t39 from "@/assets/images/stack-icons/image29.png";
 import t40 from "@/assets/images/stack-icons/image30.png";
 import t41 from "@/assets/images/stack-icons/image31.svg";
+import t42 from "@/assets/images/stack-icons/image32.svg";
 import f1 from "@/assets/images/f1.svg";
 import f2 from "@/assets/images/f2.svg";
 import f3 from "@/assets/images/f3.svg";
@@ -44,7 +45,7 @@ import award1 from "@/assets/images/award7.svg";
 import award2 from "@/assets/images/award7.svg";
 import award3 from "@/assets/images/award7.svg";
 import award4 from "@/assets/images/award8.svg";
-import figma from "@/assets/images/figma.png";
+
 import r1 from "@/assets/images/r1.svg";
 import experImg from "@/assets/images/experImg.svg";
 import experImg1 from "@/assets/images/experImg1.png";
@@ -212,6 +213,11 @@ const images = [
     id: 31,
     img: t41,
     title: "INTELLIJ",
+  },
+  {
+    id: 32,
+    img: t42,
+    title: "FIGMA",
   },
 ];
 

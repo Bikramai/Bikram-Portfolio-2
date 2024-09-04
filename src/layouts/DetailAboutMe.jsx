@@ -427,10 +427,10 @@ const DetailAboutMe = () => {
                     </div>
                     <div className="">
                       <h5 className="font-primary font-medium text-base leading-5 text-light-color">
-                        Certificate Completion Award
+                        Certificate Completion 
                       </h5>
                       <p className="font-primary font-normal text-base leading-5 text-gray-color mt-1">
-                        Dent-A Super Performer
+                        Dent-A Performer
                       </p>
                     </div>
                   </a>

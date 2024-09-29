@@ -9,7 +9,7 @@ import g8 from "@/assets/images/g8.png";
 import g9 from "@/assets/images/reactt.svg";
 import g10 from "@/assets/images/g10.png";
 import g11 from "@/assets/images/g11.png";
-import g12 from "@/assets/images/node-js.svg";
+import g12 from "@/assets/images/node-js2.svg";
 import g13 from "@/assets/images/python2.svg";
 import g14 from "@/assets/images/django2.svg";
 import g15 from "@/assets/images/api3.png";
